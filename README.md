@@ -18,7 +18,7 @@
 
 ## 📌 ESP32 DOIT DEVKIT V1 Pinout
 
-![ESP32 DOIT DEVKIT V1 Pinout](images/esp32_pinout.png)
+![ESP32 DOIT DEVKIT V1 Pinout](images/esp32_pinout.png.webp)
 
 ภาพแสดงผังขา (Pinout) ของบอร์ด ESP32 DOIT DEVKIT V1  
 ใช้สำหรับอ้างอิงการต่อ sensor, motor driver และอุปกรณ์ต่าง ๆ
